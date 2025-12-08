@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello nisha
+=======
+hai nishA WELCOME, Now I added some content for pull action
+
+>>>>>>> 09ff7f5877af813e2c8324a32cb0cf938afa3fc0
